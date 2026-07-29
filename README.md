@@ -1,1 +1,1 @@
-#All Data Science Libraries as assignments.
+All Data Science Libraries as assignments.
